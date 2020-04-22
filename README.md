@@ -1,2 +1,2 @@
-# github_practices
-For data analytics
+# A repository for practicing GitHub commands
+This is where the description would go
